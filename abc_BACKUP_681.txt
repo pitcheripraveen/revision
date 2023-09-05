@@ -1,0 +1,9 @@
+first line
+<<<<<<< HEAD
+second line by master
+third line by master
+=======
+second line by dev
+third line by dev
+>>>>>>> dev
+4th line in github
